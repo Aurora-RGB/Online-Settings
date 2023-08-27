@@ -1,10 +1,12 @@
 {
   "shutdownAurora": [
     {
-      "processName": "ForzaHorizon5.exe"
+      "processName": "ForzaHorizon5.exe",
+      "reason": "Game blacklisted Aurora.exe"
     },
     {
-      "processName": "Project76_GamePass.exe"
+      "processName": "Project76_GamePass.exe",
+      "reason": "Game blacklisted Aurora.exe"
     }
   ]
 }
