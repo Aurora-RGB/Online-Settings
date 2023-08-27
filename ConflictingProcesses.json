@@ -1,0 +1,10 @@
+{
+  "shutdownAurora": [
+    {
+      "processName": "ForzaHorizon5.exe"
+    },
+    {
+      "processName": "Project76_GamePass.exe"
+    }
+  ]
+}
