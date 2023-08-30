@@ -7,6 +7,10 @@
     {
       "processName": "Project76_GamePass.exe",
       "reason": "Game blacklisted Aurora.exe"
+    },
+    {
+      "processName": "Fallout76.exe",
+      "reason": "Game blacklisted Aurora.exe"
     }
   ]
 }
