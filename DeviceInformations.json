@@ -1,0 +1,33 @@
+{
+  "Asus (RGB.NET)": {
+    "beta": true,
+    "sdkLink": "https://www.asus.com/supportonly/armoury%20crate/helpdesk_download/",
+    "info": "Using OpenRGB instead of this is HIGHLY recommended"
+  },
+  "OpenRGB": {
+    "info": "Sdk server needs to be enabled in OpenRGB",
+    "sdkLink": "https://openrgb.org/"
+  },
+  "OpenRGB (RGB.NET)": {
+    "recommended": true,
+    "info": "Sdk server needs to be enabled in OpenRGB",
+    "sdkLink": "https://openrgb.org/"
+  },
+  "Corsair (RGB.NET)": {
+    "sdkLink": "https://www.corsair.com/ww/en/s/downloads"
+  },
+  "Razer (RGB.NET)": {
+    "beta": true,
+    "info": "You can install chroma inside \"Devices & Wrappers\" -> Chroma and use this"
+  },
+  "Logitech": {
+    "beta": true,
+    "info": "LGS or GHUB can both work",
+    "sdkLink": "https://www.logitechg.com/en-us/innovation/g-hub.html"
+  },
+  "Logitech (RGB.NET)": {
+    "beta": true,
+    "info": "LGS or GHUB can both work",
+    "sdkLink": "https://www.logitechg.com/en-us/innovation/g-hub.html"
+  }
+}
