@@ -8,6 +8,9 @@
     "info": "Sdk server needs to be enabled in OpenRGB",
     "sdkLink": "https://openrgb.org/"
   },
+  "CoolerMaster (RGB.NET)": {
+    "info": "Device firmware update might be needed for some devices"
+  },
   "OpenRGB (RGB.NET)": {
     "recommended": true,
     "info": "Sdk server needs to be enabled in OpenRGB",
