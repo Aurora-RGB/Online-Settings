@@ -35,8 +35,22 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%dT%H:%M:%S.%f%z')"
 
-      - name: Update json-values description
-        uses: restack/update-json-values-action@v1.0.0
+      - name: Update package.json version
+        uses: jossef/action-set-json-field@v2.1
         with:
           file: OnlineSettings.json
-          values: "{'OnlineSettingsTime': '${{ steps.date.outputs.date }}'}"
+          field: OnlineSettingsTime
+          value: ${{ steps.date.outputs.date }}
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update timestamp ${{ steps.semantic_release_info.outputs.git_tag }}"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ github.token }}
+          tags: true
