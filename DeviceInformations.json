@@ -31,5 +31,13 @@
   "Logitech (RGB.NET)": {
     "info": "LGS or GHUB can both work\nHaving Lightsync wrapper installed breaks this. Reinstall GHUB to revert it",
     "sdkLink": "https://www.logitechg.com/en-us/innovation/g-hub.html"
+  },
+  "LightFX": {
+    "info": "LightFX or alienfx-tool (3rd party) needs to be installed",
+    "sdkLink": "https://github.com/T-Troll/alienfx-tools"
+  },
+  "LightFX & Alienware": {
+    "info": "LightFX or alienfx-tool (3rd party) needs to be installed",
+    "sdkLink": "https://github.com/T-Troll/alienfx-tools"
   }
 }
