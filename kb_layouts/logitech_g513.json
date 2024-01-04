@@ -3,14 +3,7 @@
 	"key_modifications": {
 		"99": {
 			"visualName": "FN",
-			"tag": 99,
-			"line_break": null,
-			"margin_left": null,
-			"margin_top": null,
-			"width": null,
-			"height": null,
-			"font_size": null,
-			"enabled": null
+			"tag": 99
 		}
 	},
 	"included_features": []

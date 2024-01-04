@@ -10,8 +10,8 @@
     52,
     53,
     54,
-     
- 
+
+
     99
 
 
@@ -63,7 +63,6 @@
     },
     "13": {
       "tag": 13,
-      "line_break": true,
       "margin_left": 7.0
     },
 
@@ -102,7 +101,6 @@
 
 
     "50": {
-      "line_break": null,
       "width": 30
     },
     "51": {
@@ -143,7 +141,6 @@
     //ENTER
     "72": {
       "tag": 72,
-      "line_break": null,
       "margin_left": 7.0,
       "margin_top": -40.0,
       "width": 37.0,
@@ -168,15 +165,12 @@
     },
     // \
     "77": {
-      "tag": 77,
-      "line_break": null
- 
+      "tag": 77
     },
 
     //right shift
     "88": {
       "tag": 88,
-      "line_break": null,
       "width": 57
     },
 
@@ -234,9 +228,7 @@
 
     },
     "104": {
-      "tag": 104,
-      "line_break": null
-
+      "tag": 104
     },
     "105": {
       "margin_left": 7.0,
@@ -250,8 +242,8 @@
   },
 
   "included_features": [
-    "keyboard_numpad_left_bottom_features.json" 
- 
+    "keyboard_numpad_left_bottom_features.json"
+
     //"keyboard102_numpad_right_features.json"
 
   ]

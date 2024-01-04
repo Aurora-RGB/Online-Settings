@@ -3,24 +3,11 @@
   "key_modifications": {
     "99": {
       "visualName": "FN",
-      "tag": 107,
-      "line_break": null,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "tag": 107
     },
     "97": {
       "visualName": "SPACE",
       "tag": 97,
-      "line_break": null,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
       "enabled": false
     }
   },

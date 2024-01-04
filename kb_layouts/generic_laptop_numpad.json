@@ -78,7 +78,6 @@
     "15": {
       "visualName": "DEL",
       "tag": 52,
-      "line_break": true,
       "margin_left": 7.0
     },
     "34": {
@@ -88,7 +87,6 @@
       "line_break": true
     },
     "50": {
-      "line_break": null,
       "width": 30
     },
     "55": {
@@ -99,7 +97,6 @@
     },
     "72": {
       "tag": 72,
-      "line_break": null,
       "margin_left": 7.0,
       "margin_top": 0.0,
       "width": 74.0,
@@ -122,7 +119,6 @@
     },
     "88": {
       "tag": 88,
-      "line_break": null,
       "width": 93
     },
     "90": {
@@ -181,7 +177,6 @@
     },
     "104": {
       "tag": 104,
-      "line_break": null,
       "width": 24.5
     },
     "105": {

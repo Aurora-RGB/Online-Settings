@@ -80,13 +80,11 @@
     },
     "13": {
       "tag": 13,
-      "line_break": true,
       "margin_left": 7.0
     },
 
     "30": {
       "tag": 30,
-      "line_break": true,
       "margin_left": 7.0
     },
 
@@ -112,7 +110,6 @@
     //ENTER
     "72": {
       "tag": 72,
-      "line_break": true,
       "margin_left": 7.0,
       "margin_top": 0,
       "width": 76.0,
@@ -137,22 +134,18 @@
     },
     // \
     "77": {
-      "tag": 77,
-      "line_break": null
-
+      "tag": 77
     },
 
     //right shift
     "88": {
       "tag": 88,
-      "line_break": null,
       "width": 57
     },
 
     //"↑"
     "89": {
       "tag": 89,
-      "line_break": true,
       "margin_left": 7
     },
     "90": {

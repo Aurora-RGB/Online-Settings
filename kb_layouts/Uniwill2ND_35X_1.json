@@ -63,11 +63,10 @@
     },
     "13": {
       "tag": 13,
-      "line_break": true,
       "margin_left": 7.0
     },
-    
-     
+
+
     "30": {
       "tag": 30,
 
@@ -79,7 +78,7 @@
 
     //  "margin_left": 7.0
     //},
-     
+
     //Number lock
     "34": {
       "tag": 34,
@@ -99,10 +98,9 @@
       "line_break": true
     },
 
- 
+
 
     "50": {
-      "line_break": null,
       "width": 30
     },
     "51": {
@@ -130,14 +128,13 @@
     "58": {
       "margin_left": 7,
       "line_break": true
-      
+
 
     },
 
 
     "72": {
       "tag": 72,
-      "line_break": null,
       "margin_left": 7.0,
       "margin_top": 0.0,
       "width": 74.0,
@@ -162,7 +159,6 @@
     //right shift
     "88": {
       "tag": 88,
-      "line_break": null,
       "width": 57
     },
 
@@ -220,9 +216,7 @@
 
     },
     "104": {
-      "tag": 104,
-      "line_break": null
-
+      "tag": 104
     },
     "105": {
       "margin_left": 7.0,

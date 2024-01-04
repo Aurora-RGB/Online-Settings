@@ -3,18 +3,11 @@
   "key_modifications": {
     "99": {
       "visualName": "FN",
-      "tag": 107,
-      "line_break": null,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "tag": 107
     },
 },
   "included_features": [
     "soundblasterx_vanguardk08_left_features.json",
     "soundblasterx_vanguardk08_right_features.json"
   ]
-} 
+}

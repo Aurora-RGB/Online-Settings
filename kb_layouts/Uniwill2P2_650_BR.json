@@ -13,8 +13,8 @@
 
     54,
     58,
-     
-     
+
+
     93,
     99
 
@@ -67,7 +67,6 @@
     },
     "13": {
       "tag": 13,
-      "line_break": true,
       "margin_left": 7.0
     },
 
@@ -91,7 +90,6 @@
     },
     "36": {
       "tag": 36,
-      "line_break": true,
       "margin_left": 7
     },
     // -
@@ -104,7 +102,6 @@
 
 
     "50": {
-      "line_break": null,
       "width": 30
     },
     "51": {
@@ -125,7 +122,6 @@
     //number 9
     "57": {
       "tag": 57,
-      "line_break": true,
       "margin_left": 7
     },
 
@@ -141,7 +137,6 @@
     //ENTER
     "72": {
       "tag": 72,
-      "line_break": null,
       "margin_left": 7.0,
       "margin_top": -40.0,
       "width": 37.0,
@@ -184,7 +179,6 @@
     //right shift
     "88": {
       "tag": 88,
-      "line_break": null,
       "width": 28,
       "margin_left": 7
     },
@@ -246,9 +240,7 @@
 
     },
     "104": {
-      "tag": 104,
-      "line_break": null
-
+      "tag": 104
     },
     "105": {
       "margin_left": 7.0,

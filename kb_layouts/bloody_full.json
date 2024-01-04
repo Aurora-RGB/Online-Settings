@@ -1,6 +1,6 @@
 {
   "keys_to_remove": [71],
-  
+
   "key_modifications": {
 	//PSCR
     "14": {
@@ -16,7 +16,6 @@
 	//ENTER
     "72": {
       "tag": 72,
-      "line_break": null,
       "margin_left": 7.0,
       "margin_top": 0.0,
       "width": 75.0,
@@ -26,14 +25,7 @@
 	 //FN
      "99": {
       "visualName": "FN",
-      "tag": 107,
-      "line_break": null,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "tag": 107
     }
   },
   "included_features": [

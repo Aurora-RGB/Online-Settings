@@ -176,7 +176,6 @@
     "15": {
       "visualName": "DEL",
       "tag": 52,
-      "line_break": true,
       "margin_left": 14.0,
       "margin_top": 0.0,
       "width": 30.0,
@@ -341,7 +340,6 @@
     "33": {
       "visualName": "PAGE\r\nUP",
       "tag": 33,
-      "line_break": true,
       "margin_left": 14.0,
       "margin_top": 0.0,
       "width": 30.0,
@@ -506,7 +504,6 @@
     "54": {
       "visualName": "PAGE\r\nDOWN",
       "tag": 54,
-      "line_break": true,
       "margin_left": 14.0,
       "margin_top": 0.0,
       "width": 30.0,
@@ -664,7 +661,6 @@
     "73": {
       "visualName": "HOME",
       "tag": 32,
-      "line_break": true,
       "margin_left": 14.0,
       "margin_top": 0.0,
       "width": 30.0,
@@ -807,7 +803,6 @@
     "89": {
       "visualName": "↑",
       "tag": 89,
-      "line_break": true,
       "margin_left": 7.0,
       "margin_top": 0.0,
       "width": 30.0,
@@ -917,7 +912,6 @@
     "104": {
       "visualName": "→",
       "tag": 104,
-      "line_break": true,
       "margin_left": 7.0,
       "margin_top": 0.0,
       "width": 30.0,

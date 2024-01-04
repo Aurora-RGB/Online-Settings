@@ -1,4 +1,4 @@
-{  
+{
    "keys_to_remove": [
     34,
     35,
@@ -20,91 +20,36 @@
   ],
   "key_modifications": {
     "16": {
-      "visualName": null,
       "tag": 16,
-      "line_break": true,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "line_break": true
     },
     "33": {
-      "visualName": null,
       "tag": 33,
-      "line_break": true,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "line_break": true
     },
     "54": {
-      "visualName": null,
       "tag": 54,
-      "line_break": true,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "line_break": true
     },
     "72": {
-      "visualName": null,
       "tag": 72,
-      "line_break": true,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "line_break": true
     },
     "89": {
-      "visualName": null,
       "tag": 89,
-      "line_break": true,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "line_break": true
     },
     "104": {
-      "visualName": null,
       "tag": 104,
-      "line_break": true,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "line_break": true
     },
     "99": {
       "visualName": "FN",
-      "tag": 107,
-      "line_break": null,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
-      "enabled": null
+      "tag": 107
     },
     "97": {
       "visualName": "SPACE",
       "tag": 97,
-      "line_break": null,
-      "margin_left": null,
-      "margin_top": null,
-      "width": null,
-      "height": null,
-      "font_size": null,
       "enabled": true
     }
   },
