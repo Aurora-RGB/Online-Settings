@@ -4,14 +4,14 @@
   "key_modifications": {
 	//PSCR
     "14": {
-		"margin_left": 169.0,
+		"margin_left": 169.0
     },
     "50": {
-		"width": 30.0,
+		"width": 30.0
     },
 	//DEL
     "52": {
-		"margin_left": 69.0,
+		"margin_left": 69.0
     },
 	//ENTER
     "72": {

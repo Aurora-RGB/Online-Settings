@@ -272,7 +272,7 @@
 	  "enabled": true,
 	  "absolute_location": true
 	},
-	
+
 	{
 		"visualName": "PREV",
 		"tag": 137,
@@ -332,6 +332,6 @@
 		"margin_top_bits": -4,
 		"enabled": true,
 		"absolute_location": true
-	},
+	}
   ]
 }

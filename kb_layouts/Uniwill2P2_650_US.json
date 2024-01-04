@@ -239,9 +239,6 @@
 
   "included_features": [
     "keyboard22usuk_numpad_left_bottom_features.json",
-    "keyboard22us_numpad_right_features.json",
-    //"generic_laptop_numpad_right_bottom_features.json",
-    //"keyboard101_numpad_right_features.json"
-
+    "keyboard22us_numpad_right_features.json"
   ]
 }

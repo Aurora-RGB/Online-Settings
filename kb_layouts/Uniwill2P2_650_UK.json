@@ -252,9 +252,6 @@
   },
 
   "included_features": [
-     "keyboard22usuk_numpad_left_bottom_features.json",
-
-    //"keyboard102_numpad_right_features.json"
-
+     "keyboard22usuk_numpad_left_bottom_features.json"
   ]
 }

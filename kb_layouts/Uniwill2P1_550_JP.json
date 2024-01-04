@@ -209,8 +209,6 @@
   },
 
   "included_features": [
-    "keyboard21jp_numpad_left_bottom_features.json" ,
-    //"keyboard102_numpad_right_features.json"
-
+    "keyboard21jp_numpad_left_bottom_features.json"
   ]
 }

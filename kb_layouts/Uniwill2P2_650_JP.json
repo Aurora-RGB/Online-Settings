@@ -240,10 +240,6 @@
   },
 
   "included_features": [
-    "keyboard22jp_numpad_left_bottom_features.json",
-
-    //"generic_laptop_numpad_right_bottom_features.json",
-    //"keyboard101_numpad_right_features.json"
-
+    "keyboard22jp_numpad_left_bottom_features.json"
   ]
 }

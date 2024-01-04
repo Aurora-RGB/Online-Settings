@@ -192,21 +192,10 @@
       "tag": 104,
       "line_break": true
 
-    },
-    //"105": {
-    //  "margin_left": 7.0,
-    //  "width": 30
-    //},
-    //"106": {
-    //  "line_break": true
-    //}
-
-
+    }
   },
 
   "included_features": [
-    "keyboard21_numpad_left_bottom_features.json" ,
-    //"keyboard102_numpad_right_features.json"
-
+    "keyboard21_numpad_left_bottom_features.json"
   ]
 }
