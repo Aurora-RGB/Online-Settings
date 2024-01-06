@@ -72,14 +72,16 @@
     },
     "13": {
       "tag": 13,
-      "margin_left": 7.0
+      "margin_left": 7.0,
+      "line_break": true
     },
 
     "30": {
       "visualName": "←",
       "tag": 30,
       "width": 30,
-      "margin_left": 44.0
+      "margin_left": 44.0,
+      "line_break": true
     },
 
 
@@ -93,31 +95,21 @@
 
       "width": 30
     },
-
-    //key ~
     "71": {
       "visualName": "]",
 
       "tag": 71
 
     },
-    //ENTER
     "72": {
       "tag": 72,
       "margin_left": 7.0,
       "margin_top": -40.0,
       "width": 37.0,
       "height": 70.0,
-      "font_size": 12.0
+      "font_size": 12.0,
+      "line_break": true
     },
-    //"73": {
-    //  "margin_left": 7
-    //},
-    ////number 6
-    //"75": {
-    //  "line_break": true
-    //},
-    //left shift
     "76": {
       "tag": 76,
       "margin_left": 0.0,
@@ -126,7 +118,6 @@
       "height": 30.0,
       "font_size": 12.0
     },
-    // \
     "77": {
       "tag": 77
     },
@@ -147,27 +138,19 @@
 
       "width": 28
     },
-
-    //right shift
     "88": {
       "font_size": 10.0,
       "tag": 88,
       "width": 28
     },
-
-    //"↑"
     "89": {
       "tag": 89,
-      "margin_left": 7
+      "margin_left": 7,
+      "line_break": true
     },
     "90": {
       "margin_left": 7.0
     },
-    ////Number enter
-    //"93": {
-    //  "line_break": true
-    //},
-    //LeftControl
     "94": {
       "tag": 94,
       "width": 41
@@ -197,7 +180,6 @@
       "margin_left": 7,
       "width": 30
     },
-    //Rith control
     "101": {
       "tag": 101,
       "margin_left": 7,
@@ -213,13 +195,6 @@
       "line_break": true
 
     }
-    //"105": {
-    //  "margin_left": 7.0,
-    //  "width": 30
-    //},
-    //"106": {
-    //  "line_break": true
-    //}
 
 
   },

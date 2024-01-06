@@ -70,19 +70,15 @@
     },
     "13": {
       "tag": 13,
-      "margin_left": 7.0
+      "margin_left": 7.0,
+      "line_break": true
     },
-
-    //black space
     "30": {
       "visualName": "←",
       "tag": 30,
       "width": 30,
       "margin_left": 7.0
     },
-
-
-    //Number lock
     "34": {
       "tag": 34,
       "margin_left": 7
@@ -93,14 +89,9 @@
     },
     "36": {
       "tag": 36,
-      "margin_left": 7
+      "margin_left": 7,
+      "line_break": true
     },
-    // -
-    //"37": {
-    //  "tag": 37,
-    //  "margin_left": 7,
-    //  "line_break": true
-    //},
 
 
 
@@ -111,33 +102,19 @@
       "margin_left": 7,
       "width": 30
     },
-    //number 7
     "55": {
       "tag": 55,
       "margin_left": 62
     },
-    //number 8
     "56": {
       "tag": 56,
       "margin_left": 7
     },
-
-    //number 9
     "57": {
       "tag": 57,
-      "margin_left": 7
+      "margin_left": 7,
+      "line_break": true
     },
-
-    ////+
-    //"58": {
-    //  "margin_left": 7,
-    //  "line_break": true
-
-
-    //},
-
-
-    //ENTER
     "72": {
       "tag": 72,
       "margin_left": 7.0,
@@ -149,7 +126,6 @@
     "73": {
       "margin_left": 7
     },
-    //number 6
     "75": {
       "line_break": true
     },
@@ -162,14 +138,11 @@
       "height": 30.0,
       "font_size": 12.0
     },
-    //right shift
     "88": {
       "tag": 88,
       "width": 30,
       "margin_left": 7
     },
-
-    //"↑"
     "89": {
       "tag": 89,
       "margin_left": 5
@@ -180,11 +153,6 @@
     "92": {
       "line_break": true
     },
-    ////Number enter
-    //"93": {
-    //  "line_break": true
-    //},
-    //LeftControl
     "94": {
       "tag": 94,
       "width": 41
@@ -208,13 +176,6 @@
       "margin_left": 7,
       "width": 30
     },
-    //"100": {
-    //  "visualName": "App",
-    //  "tag": 100,
-    //  "margin_left": 7,
-    //  "width": 30
-    //},
-    //Rith control
     "101": {
       "tag": 101,
       "margin_left": 7,

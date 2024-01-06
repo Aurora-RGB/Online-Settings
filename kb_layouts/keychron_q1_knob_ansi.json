@@ -181,7 +181,8 @@
       "width": 30.0,
       "height": 30.0,
       "font_size": 12.0,
-      "enabled": true
+      "enabled": true,
+      "line_break": true
     },
     "17": {
       "visualName": "~",
@@ -345,7 +346,8 @@
       "width": 30.0,
       "height": 30.0,
       "font_size": 9.0,
-      "enabled": true
+      "enabled": true,
+      "line_break": true
     },
     "38": {
       "visualName": "TAB",
@@ -509,7 +511,8 @@
       "width": 30.0,
       "height": 30.0,
       "font_size": 9.0,
-      "enabled": true
+      "enabled": true,
+      "line_break": true
     },
     "59": {
       "visualName": "CAPS\r\nLOCK",
@@ -666,7 +669,8 @@
       "width": 30.0,
       "height": 30.0,
       "font_size": 9.0,
-      "enabled": true
+      "enabled": true,
+      "line_break": true
     },
     "76": {
       "visualName": "SHIFT",
@@ -808,7 +812,8 @@
       "width": 30.0,
       "height": 30.0,
       "font_size": 12.0,
-      "enabled": true
+      "enabled": true,
+      "line_break": true
     },
     "101": {
       "visualName": "CTRL",
@@ -917,7 +922,8 @@
       "width": 30.0,
       "height": 30.0,
       "font_size": 12.0,
-      "enabled": true
+      "enabled": true,
+      "line_break": true
     }
   }
 }

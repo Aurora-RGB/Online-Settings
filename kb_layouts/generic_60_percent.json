@@ -23,6 +23,7 @@
     35,
     36,
     37,
+    51,
     52,
     53,
     54,
@@ -48,6 +49,9 @@
     "30": {
       "line_break": true
     },
+    "50": {
+      "line_break": true
+    },
     "51": {
       "line_break": true
     },
@@ -60,5 +64,8 @@
     "101": {
       "line_break": true
     }
-  }
+  },
+  "included_features": [
+    "generic_60_percent_right_features.json"
+  ]
 }

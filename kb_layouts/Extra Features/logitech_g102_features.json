@@ -12,7 +12,7 @@
       "enabled": true,
       "absolute_location": true
     },
-    { //for now G102 has to use a single zone bc Logitech is big dumb dumb and zones don't work on G102. the SDK for G102 didn't even work at all for the last x years.
+    {
       "visualName": "Logo",
       "tag": 160,
       "margin_left": 18.0,
