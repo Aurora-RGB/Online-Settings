@@ -2,7 +2,7 @@
   "group_tag": "mouse",
   "origin_region": 4,
   "grouped_keys": [
-  {
+    {
       "tag": -1,
       "margin_left": 10.0,
       "margin_top": -232.0,
@@ -13,13 +13,35 @@
       "absolute_location": true
     },
     {
-      "visualName": "Logo",
-      "tag": 160,
+      "visualName": "Left Part of Logo",
+      "tag": 278,
       "margin_left": 18.0,
       "margin_top": -75.0,
-      "width": 110.0,
+      "width": 36.0,
       "height": 72.0,
-      "image": "Logi_G102_logo.png",
+      "image": "Logi_G102_logo_1.png",
+      "enabled": true,
+      "absolute_location": true
+    },
+    {
+      "visualName": "Middle Part of Logo",
+      "tag": 279,
+      "margin_left": 54.0,
+      "margin_top": -75.0,
+      "width": 37.0,
+      "height": 72.0,
+      "image": "Logi_G102_logo_2.png",
+      "enabled": true,
+      "absolute_location": true
+    },
+    {
+      "visualName": "Right Part of Logo",
+      "tag": 280,
+      "margin_left": 92.0,
+      "margin_top": -75.0,
+      "width": 36.0,
+      "height": 72.0,
+      "image": "Logi_G102_logo_3.png",
       "enabled": true,
       "absolute_location": true
     }
