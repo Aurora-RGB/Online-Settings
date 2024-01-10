@@ -39,5 +39,9 @@
   "LightFX & Alienware": {
     "info": "LightFX or alienfx-tool (3rd party) needs to be installed",
     "sdkLink": "https://github.com/T-Troll/alienfx-tools"
+  },
+  "Wooting": {
+    "info": "This controller has problems and will be removed soon",
+    "beta": true
   }
 }
