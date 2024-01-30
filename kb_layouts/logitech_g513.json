@@ -6,5 +6,7 @@
 			"tag": 99
 		}
 	},
-	"included_features": []
+	"included_features": [
+		"logitech_g513_indicators.json"
+	]
 }

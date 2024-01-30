@@ -1,0 +1,27 @@
+{
+  "origin_region": 2,
+  "grouped_keys": [
+    {
+      "visualName": "",
+      "tag": 302,
+      "line_break": false,
+      "margin_left": -110.0,
+      "margin_top": 10.0,
+      "width": 14.0,
+      "height": 22.0,
+      "enabled": true,
+      "absolute_location": true
+    },
+    {
+      "visualName": "",
+      "tag": 132,
+      "line_break": false,
+      "margin_left": -130.0,
+      "margin_top": 10.0,
+      "width": 14.0,
+      "height": 22.0,
+      "enabled": true,
+      "absolute_location": true
+    }
+  ]
+}
