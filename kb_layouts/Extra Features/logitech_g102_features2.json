@@ -1,0 +1,27 @@
+{
+  "group_tag": "mouse",
+  "origin_region": 4,
+  "grouped_keys": [
+  {
+      "tag": -1,
+      "margin_left": 10.0,
+      "margin_top": -232.0,
+      "width": 123.0,
+      "height": 232.0,
+      "image": "Logi_G102_outline.png",
+      "enabled": true,
+      "absolute_location": true
+    },
+    {
+      "visualName": "Logo",
+      "tag": 217,
+      "margin_left": 18.0,
+      "margin_top": -75.0,
+      "width": 110.0,
+      "height": 72.0,
+      "image": "Logi_G102_logo.png",
+      "enabled": true,
+      "absolute_location": true
+    }
+  ]
+}
