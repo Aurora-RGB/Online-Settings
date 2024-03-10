@@ -15,6 +15,10 @@
     {
       "processName": "forza_gaming.desktop.x64_release_final.exe",
       "reason": "Game blacklisted Aurora.exe"
+    },
+    {
+      "processName": "helldivers2.exe",
+      "reason": "Game crashes with Aurora open"
     }
   ]
 }
