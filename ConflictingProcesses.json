@@ -24,5 +24,7 @@
       "processName": "crs-handler.exe",
       "reason": "Game crashes with Aurora open (Helldivers 2)"
     }
+  ],
+  "shutdownAuroraRgb": [
   ]
 }
