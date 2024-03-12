@@ -19,6 +19,10 @@
     {
       "processName": "helldivers2.exe",
       "reason": "Game crashes with Aurora open"
+    },
+    {
+      "processName": "crs-handler.exe",
+      "reason": "Game crashes with Aurora open (Helldivers 2)"
     }
   ]
 }
