@@ -24,8 +24,7 @@
     "info": "You can install chroma inside \"Devices & Wrappers\" -> Chroma and use this"
   },
   "Logitech": {
-    "beta": true,
-    "info": "LGS or GHUB can both work.\n !! GHUB versions since August 2023 don't work !!",
+    "info": "LGS or GHUB can both work\nHaving Lightsync wrapper installed breaks this. Reinstall GHUB to revert it",
     "sdkLink": "https://www.logitechg.com/en-us/innovation/g-hub.html"
   },
   "Logitech (RGB.NET)": {
