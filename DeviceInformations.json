@@ -20,7 +20,7 @@
     "sdkLink": "https://www.corsair.com/ww/en/s/downloads"
   },
   "Corsair v4 (RGB.NET)": {
-    "info": "This SDK is newer but has freezing issue for some people",
+    "info": "This SDK is newer but has freezing issue for some people\nThis is very unstable (blame Corsair)",
     "sdkLink": "https://www.corsair.com/ww/en/s/downloads",
     "beta": true
   },
