@@ -19,6 +19,11 @@
   "Corsair (RGB.NET)": {
     "sdkLink": "https://www.corsair.com/ww/en/s/downloads"
   },
+  "Corsair v4 (RGB.NET)": {
+    "info": "This SDK is newer but has freezing issue for some people",
+    "sdkLink": "https://www.corsair.com/ww/en/s/downloads",
+    "beta": true
+  },
   "Razer (RGB.NET)": {
     "info": "You can install chroma inside \"Devices & Wrappers\" -> Chroma and use this"
   },
