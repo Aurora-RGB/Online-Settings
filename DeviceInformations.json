@@ -2,7 +2,7 @@
   "Asus (RGB.NET)": {
     "beta": true,
     "sdkLink": "https://www.asus.com/supportonly/armoury%20crate/helpdesk_download/",
-    "info": "Using OpenRGB instead of this is HIGHLY recommended\nIt is a known issue that this doesn't work right now (work is being done)"
+    "info": "Using OpenRGB instead of this is HIGHLY recommended"
   },
   "OpenRGB": {
     "info": "Sdk server needs to be enabled in OpenRGB",
