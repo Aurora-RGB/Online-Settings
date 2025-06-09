@@ -27,12 +27,15 @@
   "Razer (RGB.NET)": {
     "info": "You can install chroma inside \"Devices & Wrappers\" -> Chroma and use this"
   },
+  "Steelseries (RGB.NET)": {
+      "info": "SteelSeries GG may need to be installed for some devices\nKey remapping is not supported"
+  },
   "Logitech": {
     "info": "LGS or GHUB can both work\nHaving Lightsync wrapper installed breaks this. Reinstall GHUB to revert it",
     "sdkLink": "https://www.logitechg.com/en-us/innovation/g-hub.html"
   },
   "Logitech (RGB.NET)": {
-    "info": "LGS or GHUB can both work\nHaving Lightsync wrapper installed breaks this. Reinstall GHUB to revert it",
+    "info": "LGS or GHUB can both work\nHaving Lightsync wrapper installed breaks this. Reinstall GHUB to revert it\nKey remapping is not supported",
     "sdkLink": "https://www.logitechg.com/en-us/innovation/g-hub.html"
   },
   "LightFX": {
