@@ -5,7 +5,7 @@
     "info": "Using OpenRGB instead of this is HIGHLY recommended"
   },
   "OpenRGB": {
-    "info": "Sdk server needs to be enabled in OpenRGB",
+    "info": "Sdk server needs to be enabled in OpenRGB\nIf a device does not show up in Aurora, it does not support Direct Mode",
     "sdkLink": "https://openrgb.org/"
   },
   "CoolerMaster (RGB.NET)": {
@@ -13,7 +13,7 @@
   },
   "OpenRGB (RGB.NET)": {
     "recommended": true,
-    "info": "Sdk server needs to be enabled in OpenRGB",
+    "info": "Sdk server needs to be enabled in OpenRGB\nIf a device does not show up in Aurora, it does not support Direct Mode",
     "sdkLink": "https://openrgb.org/"
   },
   "Corsair (RGB.NET)": {
